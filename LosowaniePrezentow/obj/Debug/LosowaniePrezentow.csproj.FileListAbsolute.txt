@@ -1,0 +1,12 @@
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\bin\Debug\LosowaniePrezentow.exe.config
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\bin\Debug\LosowaniePrezentow.exe
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\bin\Debug\LosowaniePrezentow.pdb
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.csprojResolveAssemblyReference.cache
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.DodawaniaOsob.resources
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.Form1.resources
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.Properties.Resources.resources
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.csproj.GenerateResource.Cache
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.exe
+c:\users\dnikodex\documents\visual studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\obj\Debug\LosowaniePrezentow.pdb
+C:\Users\dnikodex\Documents\Visual Studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\bin\Debug\SampleDatabase.mdf
+C:\Users\dnikodex\Documents\Visual Studio 2013\Projects\ZadaniaCSharp\LosowaniePrezentow\LosowaniePrezentow\bin\Debug\SampleDatabase_log.ldf
